@@ -1,0 +1,27 @@
+# Algorithms and data structures
+- Turing machine
+- Time/Space complexity of an algorithm
+    - O notation
+        - Sorting examples (bubble sort, merge sort, count sort)
+- Graphs & graph algorithms
+    - vertices, edges
+    - DFS, BFS
+        - maze solver
+    - state machine
+    - Pagerank
+- Trees
+    - BST
+        - excercise: https://leetcode.com/problems/invert-binary-tree/
+    - balanced trees
+    - tree transformations
+    - prefix tree
+    - decision trees, game theory & minimax
+- Hashing
+- Dynamic programming
+    - fibonacci example
+        - recursion example
+        - recursion with memoization
+        - transformation to dynamic programming table
+    - excercise: Longest increasing subsequence https://leetcode.com/problems/longest-increasing-subsequence/
+- Text search algorithms
+    - inverted index

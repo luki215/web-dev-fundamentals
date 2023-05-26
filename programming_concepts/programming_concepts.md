@@ -1,0 +1,54 @@
+# Programming concepts
+- Fundamentals
+    - How a programing language results to assembler
+        - grammas, state machines, regexes
+    - execution types
+        - compiled
+        - JIT
+        - interpreted
+    - paradigms
+        - imperative
+            - procedural
+            - OOP
+        - declarative
+            - functional
+            - reactive
+    - Concurrency
+        - processes, threads
+        - race conditions
+            - locks
+                - deadlocks
+        - Abstractions used in web
+            - Threadpool (Puma, SQL server)
+            - Workers
+            - Event loop in JS - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop
+- Architecture
+    - How to write clean code
+    - UML
+    - SOLID
+    - KISS
+    - refactoring process
+    - TDD
+- Procedural
+    - devide & conquer
+- OOP
+    - design patterns
+        - Singleton
+        - MVC
+        - Factory
+        - Dependency injection
+        - Active Record
+        - Observer
+        - Facade
+        - Mediator
+        - Command
+        - Decorator
+        - Builder
+- FP
+    - Pure functions
+    - Memoization
+    - Currying
+    - Recursion, Accumulators
+- Reactive
+    - RxJS
+    - Signals

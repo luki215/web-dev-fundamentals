@@ -1,0 +1,1 @@
+Condensed knowledge & useful things I've learned on university/courses that are IMHO usefull to know in order to be a good dev.

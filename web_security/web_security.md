@@ -1,0 +1,22 @@
+# Web security
+- Importance of having dependecies up to date:
+    - Hardware, firmware
+    - Operating system
+    - Apps around
+        - Docker
+        - Web server/Proxy
+    - Programming language
+    - Framework
+    - Third party libs
+- Common web vulnerabilities we can introduce by coding/we can encounter & their principles:
+    - SQL injection https://www.youtube.com/watch?v=_jKylhJtPmI
+    - XSS https://www.youtube.com/watch?v=zv0kZKC6GAM
+    - CSRF https://www.youtube.com/watch?v=vRBihr41JTo
+    - DDoS https://www.youtube.com/watch?v=XiFkyR35v2Y
+    - Brute force cracking https://www.youtube.com/watch?v=7U-RbOKanYs
+- best practices
+    - password managers
+    - private keys, certificates, secrets handling
+    - password hashing
+    - CORS
+    - Content security policy

@@ -1,0 +1,15 @@
+# Computer fundamentals
+- representing data as numbers
+    - binary numbers
+    - how text is represented in binary
+    - how images are represented in binary
+- computer memory
+  - memories & how binary data are represented physically (RAM, HDD, SSD)
+  - program, data, devices
+  - adressing memory
+    - pointers vs raw data
+- computer processors
+  - assembler basics
+    - https://schweigi.github.io/assembler-simulator/
+  - preemptive scheduling
+  - cores, parallel computation
